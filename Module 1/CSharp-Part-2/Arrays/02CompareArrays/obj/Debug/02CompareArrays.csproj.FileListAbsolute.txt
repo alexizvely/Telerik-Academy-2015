@@ -1,0 +1,5 @@
+c:\users\velitoo\documents\visual studio 2013\Projects\Arrays\02CompareArrays\bin\Debug\02CompareArrays.exe.config
+c:\users\velitoo\documents\visual studio 2013\Projects\Arrays\02CompareArrays\bin\Debug\02CompareArrays.exe
+c:\users\velitoo\documents\visual studio 2013\Projects\Arrays\02CompareArrays\bin\Debug\02CompareArrays.pdb
+c:\users\velitoo\documents\visual studio 2013\Projects\Arrays\02CompareArrays\obj\Debug\02CompareArrays.exe
+c:\users\velitoo\documents\visual studio 2013\Projects\Arrays\02CompareArrays\obj\Debug\02CompareArrays.pdb

@@ -1,0 +1,20 @@
+table, td, th, tr {
+	border-width:1px;
+    border-color:#B5B6B8;
+    border-style:inset;
+	font-family: "Times New Roman", Times, serif;
+	font-size:14px;
+	font-weight:normal;
+}
+
+.coll1{
+	text-align:left
+}
+
+.center{
+	text-align:center
+}
+
+.coll5{
+	text-align:right
+}

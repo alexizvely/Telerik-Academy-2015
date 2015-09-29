@@ -1,0 +1,15 @@
+body {
+    background-color: #A0B5DB;
+}
+
+dt {
+    font-style: italic;
+}
+
+#infoLabel, .infoLabel{
+    font-weight: bold;
+}
+
+ul {
+	list-style-type: disc;
+}

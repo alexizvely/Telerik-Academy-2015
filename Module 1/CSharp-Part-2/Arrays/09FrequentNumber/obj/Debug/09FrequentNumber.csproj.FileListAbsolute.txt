@@ -1,0 +1,6 @@
+C:\Users\Velitoo\Documents\Visual Studio 2013\Projects\Arrays\09FrequentNumber\bin\Debug\09FrequentNumber.exe.config
+C:\Users\Velitoo\Documents\Visual Studio 2013\Projects\Arrays\09FrequentNumber\bin\Debug\09FrequentNumber.exe
+C:\Users\Velitoo\Documents\Visual Studio 2013\Projects\Arrays\09FrequentNumber\bin\Debug\09FrequentNumber.pdb
+C:\Users\Velitoo\Documents\Visual Studio 2013\Projects\Arrays\09FrequentNumber\obj\Debug\09FrequentNumber.csprojResolveAssemblyReference.cache
+C:\Users\Velitoo\Documents\Visual Studio 2013\Projects\Arrays\09FrequentNumber\obj\Debug\09FrequentNumber.exe
+C:\Users\Velitoo\Documents\Visual Studio 2013\Projects\Arrays\09FrequentNumber\obj\Debug\09FrequentNumber.pdb

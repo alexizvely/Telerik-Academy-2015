@@ -1,0 +1,21 @@
+td, th{
+	border-width:1px;
+    border-color:#B5B6B8;
+    border-style:solid;
+}
+
+table{
+    border-collapse: collapse;
+	border-spacing: 0px;
+	width: 25%;
+}
+
+td.coloured{
+	background-color: #6699FF;
+	text-align: center;
+}
+
+input[name="State"],input[name="Zip"],input[name="CountryCode"],input[name="AreaCode"]{
+	width: 10%;
+	margin-right:5px; 
+}

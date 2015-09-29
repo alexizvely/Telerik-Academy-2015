@@ -1,0 +1,27 @@
+h1{
+	font-style: italic;
+}
+
+table {
+    width: 30%;
+}
+
+th {
+    height: 81px;
+    width: 30px;
+    text-align: left;
+}
+
+p{
+    font-family: "Times New Roman", Times, serif;
+    font-weight: normal;
+}
+
+.autoResizeImage {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+strong{
+	font-weight: normal;
+}

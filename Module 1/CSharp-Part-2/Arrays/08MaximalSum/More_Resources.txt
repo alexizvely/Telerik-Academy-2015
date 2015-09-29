@@ -1,0 +1,10 @@
+for the Algorithm itself:
+http://www.algorithmist.com/index.php/Kadane's_Algorithm
+http://en.wikipedia.org/wiki/Maximum_subarray_problem
+https://kartikkukreja.wordpress.com/2013/06/17/kadanes-algorithm/
+
+for string Builder:
+https://msdn.microsoft.com/en-us/library/system.text.stringbuilder%28v=vs.110%29.aspx
+
+Methods:
+https://msdn.microsoft.com/en-us/library/ms173114.aspx

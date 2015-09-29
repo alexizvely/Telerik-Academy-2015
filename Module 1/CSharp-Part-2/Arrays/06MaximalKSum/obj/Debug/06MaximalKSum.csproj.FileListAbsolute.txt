@@ -1,0 +1,5 @@
+C:\Users\Velitoo\Documents\Visual Studio 2013\Projects\Arrays\06MaximalKSum\bin\Debug\06MaximalKSum.exe.config
+C:\Users\Velitoo\Documents\Visual Studio 2013\Projects\Arrays\06MaximalKSum\bin\Debug\06MaximalKSum.exe
+C:\Users\Velitoo\Documents\Visual Studio 2013\Projects\Arrays\06MaximalKSum\bin\Debug\06MaximalKSum.pdb
+C:\Users\Velitoo\Documents\Visual Studio 2013\Projects\Arrays\06MaximalKSum\obj\Debug\06MaximalKSum.exe
+C:\Users\Velitoo\Documents\Visual Studio 2013\Projects\Arrays\06MaximalKSum\obj\Debug\06MaximalKSum.pdb

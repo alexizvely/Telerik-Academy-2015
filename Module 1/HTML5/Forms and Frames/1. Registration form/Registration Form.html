@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+	<meta charset="UTF-8">
+	<meta name="description" content="Registration Form">
+	<meta name="keywords" content="registration">
+	<title>Registration Form</title>
+	<link rel="stylesheet" type="text/css" href="Styles/FormStyles.css"/>
+</head>
+
+<body>
+
+<form>
+<table>
+  <tr>
+    <th>Last Name</th>
+    <td><input type="text" name="LastName" placeholder="Last Name"/></td>
+  </tr>
+
+  <tr>
+    <th>First Name</th>
+    <td><input type="text" name="FirstName" placeholder="First Name"/></td>
+  </tr>
+
+  <tr>
+    <th>Address</th>
+    <td><textarea rows="3" cols="20"></textarea></td>
+  </tr>
+
+  <tr>
+    <th>City</th>
+    <td><input type="text" name="City" placeholder="City"/><label> State <input type="text" name="State" placeholder="State"/></label></td>
+  </tr>
+
+  <tr>
+    <th>Zip/Postal Code</th>
+    <td><input type="text" name="Zip"/></td>
+  </tr>
+
+  <tr>
+    <th>Country</th>
+    <td><select>
+  <option value="BG">Bulgaria</option>
+  <option value="RO">Romania</option>
+  <option value="GR">Greece</option>
+  <option value="TK">Turkey</option>
+</select></td>
+  </tr>
+
+  <tr>
+    <th>Phone(country code, area code, number)</th>
+    <td><label>(+<input type="text" name="CountryCode"/>) </label><input type="text" name="AreaCode"/><input type="text" name="PhoneNumber"/></td>
+  </tr>
+
+  <tr>
+    <th>E-mail</th>
+    <td><input type="email" name="email" placeholder="xxx@yy.zz"/></td>
+  </tr>
+
+  <tr>
+    <th>Birth Date</th>
+    <td><input type="datetime-local" name="bdaytime"></td>
+  </tr>
+
+  <tr>
+    <th>Gender</th>
+    <td><select>
+  <option value="m">Male</option>
+  <option value="f">Female</option>
+</select></td>
+  </tr>
+
+  <tr>
+    <th>Starting Date</th>
+    <td>
+    <input type="radio" name="Starting" value="spring" checked>Spring 2015
+    <input type="radio" name="Starting" value="summer">Summer 2015
+    </td>
+  </tr>
+
+  <tr>
+    <th>Comments/Questions</th>
+    <td><textarea rows="5" cols="20"></textarea></td>
+  </tr>
+
+  <tr>
+    <td class="coloured" colspan="2"><input type="submit" name="Submit" value="Submit"><input type="reset" name="Reset" value="Clean This Form"></td>
+  </tr>
+</table>
+</form>
+
+</body>
+</html>

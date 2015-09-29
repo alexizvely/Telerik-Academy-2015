@@ -1,0 +1,6 @@
+c:\users\velitoo\documents\visual studio 2013\Projects\Arrays\01AllocateArray\bin\Debug\01AllocateArray.exe.config
+c:\users\velitoo\documents\visual studio 2013\Projects\Arrays\01AllocateArray\bin\Debug\01AllocateArray.exe
+c:\users\velitoo\documents\visual studio 2013\Projects\Arrays\01AllocateArray\bin\Debug\01AllocateArray.pdb
+c:\users\velitoo\documents\visual studio 2013\Projects\Arrays\01AllocateArray\obj\Debug\01AllocateArray.csprojResolveAssemblyReference.cache
+c:\users\velitoo\documents\visual studio 2013\Projects\Arrays\01AllocateArray\obj\Debug\01AllocateArray.exe
+c:\users\velitoo\documents\visual studio 2013\Projects\Arrays\01AllocateArray\obj\Debug\01AllocateArray.pdb

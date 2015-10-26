@@ -1,6 +1,0 @@
-C:\Users\Velitoo\Documents\Visual Studio 2013\Projects\Arrays\03CompareCharArrays\bin\Debug\03CompareCharArrays.exe.config
-C:\Users\Velitoo\Documents\Visual Studio 2013\Projects\Arrays\03CompareCharArrays\bin\Debug\03CompareCharArrays.exe
-C:\Users\Velitoo\Documents\Visual Studio 2013\Projects\Arrays\03CompareCharArrays\bin\Debug\03CompareCharArrays.pdb
-C:\Users\Velitoo\Documents\Visual Studio 2013\Projects\Arrays\03CompareCharArrays\obj\Debug\03CompareCharArrays.csprojResolveAssemblyReference.cache
-C:\Users\Velitoo\Documents\Visual Studio 2013\Projects\Arrays\03CompareCharArrays\obj\Debug\03CompareCharArrays.exe
-C:\Users\Velitoo\Documents\Visual Studio 2013\Projects\Arrays\03CompareCharArrays\obj\Debug\03CompareCharArrays.pdb

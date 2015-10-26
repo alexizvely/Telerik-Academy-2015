@@ -1,5 +1,0 @@
-C:\Users\Velitoo\Documents\Visual Studio 2013\Projects\Arrays\05MaximalIncreasingSequence\bin\Debug\05MaximalIncreasingSequence.exe.config
-C:\Users\Velitoo\Documents\Visual Studio 2013\Projects\Arrays\05MaximalIncreasingSequence\bin\Debug\05MaximalIncreasingSequence.exe
-C:\Users\Velitoo\Documents\Visual Studio 2013\Projects\Arrays\05MaximalIncreasingSequence\bin\Debug\05MaximalIncreasingSequence.pdb
-C:\Users\Velitoo\Documents\Visual Studio 2013\Projects\Arrays\05MaximalIncreasingSequence\obj\Debug\05MaximalIncreasingSequence.exe
-C:\Users\Velitoo\Documents\Visual Studio 2013\Projects\Arrays\05MaximalIncreasingSequence\obj\Debug\05MaximalIncreasingSequence.pdb
